@@ -50,3 +50,7 @@
 [Online huawei modem unlock code calculator](http://a-zgsm.com/freecode/huawei/submit/)
 
 [Linux + Huawei E1550 (AT commands) (rus)](http://galaober.org.ua/node/73)
+
+[Send SMS from a Raspberry Pi](http://mattiasnorell.com/send-sms-from-a-raspberry-pi/)
+
+[Receive SMS on a Raspberry Pi](http://mattiasnorell.com/receive-sms-on-a-raspberry-pi/)
