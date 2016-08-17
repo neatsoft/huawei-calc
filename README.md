@@ -2,6 +2,7 @@
 
 ##Supported devices
 - E1550
+- E171
 
 ##Possibly supported (not tested)
 - other E-based Huawei modems
